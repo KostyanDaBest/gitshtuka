@@ -12,6 +12,7 @@ public class Main {
             System.out.println( "commit 24");
             System.out.println( "commit 25");
             System.out.println( "commit 26");
+            System.out.println( "commit 27");
 
             System.out.println("i = " + i);
         }
