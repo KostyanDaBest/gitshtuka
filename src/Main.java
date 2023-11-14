@@ -9,6 +9,7 @@ public class Main {
             System.out.println( "change 1");
             System.out.println( "change 2");
             System.out.println( "commit 23");
+            System.out.println( "commit 24");
 
             System.out.println("i = " + i);
         }
